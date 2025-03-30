@@ -20,7 +20,7 @@ global.APIKeys = {
     'https://api.neoxr.my.id': 'yourkey',
     'https://violetics.pw': 'beta',
     'https://zenzapis.xyz': 'yourkey',
-    'https://api-fgmods.ddns.net': 'fg-dylux'
+    'https://api-fgmods.ddns.net': 'XPLOADER-BOT:~b6pEDAzC#42gt2eG8PmRZTan_sa87hsOqMo4qTqbS3lwNMQJvyCM'
 };
 
 module.exports = {
