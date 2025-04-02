@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config(XPLOADER-BOT:~y7pm2A4Y#m-ToKAincE77TLqbLbSH2kvNBVy6WrigNvYuxCD2pyE);
 
 global.APIs = {
     xteam: 'https://api.xteam.xyz',
