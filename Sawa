@@ -1,6 +1,6 @@
-require('dotenv').config();
+require('dotenv').config(XPLOADER-BOT:~vrRizIzD#yKZVw4A9igA9-RhO6rrc6vEOoaJsrjODBUtibImDr6A);
 
-global.APIs = {
+global.APIs = {+254723536629
     xteam: 'https://api.xteam.xyz',
     dzx: 'https://api.dhamzxploit.my.id',
     lol: 'https://api.lolhuman.xyz',
@@ -14,7 +14,7 @@ global.APIs = {
     fgmods: 'https://api-fgmods.ddns.net'
 };
 
-global.APIKeys = {
+global.APIKeys = {+254723536629
     'https://api.xteam.xyz': 'd90a9e986e18778b',
     'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
     'https://api.neoxr.my.id': 'yourkey',
